@@ -141,7 +141,7 @@ export default function HomePage() {
                           className="w-15 h-15 mx-auto mb-2 rounded-lg"
                         />
                         <Link
-                          href="/services/creativesols"
+                          href="/services/creative sold"
                           className="text-sm font-medium text-gray-700 hover:text-blue-600"
                         >
                           Creative and branding solutions

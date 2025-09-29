@@ -117,8 +117,8 @@ export default function HomePage() {
                           alt="Consulting"
                           className="w-15 h-15 mx-auto mb-2 rounded-lg"
                         />
-                        <Link href="/services" className="text-sm font-medium text-gray-700 hover:text-blue-600">
-                          Technology Consulting
+                        <Link href="/labs" className="text-sm font-medium text-gray-700 hover:text-blue-600">
+                          Our CORE offerings
                         </Link>
                       </div>
                       <div className="text-center">
@@ -128,10 +128,10 @@ export default function HomePage() {
                           className="w-15 h-15 mx-auto mb-2 rounded-lg"
                         />
                         <Link
-                          href="/services/development"
+                          href="/services/itsols"
                           className="text-sm font-medium text-gray-700 hover:text-blue-600"
                         >
-                          Software Development
+                          IT Solutions
                         </Link>
                       </div>
                       <div className="text-center">
@@ -141,10 +141,10 @@ export default function HomePage() {
                           className="w-15 h-15 mx-auto mb-2 rounded-lg"
                         />
                         <Link
-                          href="/services/digital-transformation"
+                          href="/services/creativesols"
                           className="text-sm font-medium text-gray-700 hover:text-blue-600"
                         >
-                          Digital Transformation
+                          Creative and branding solutions
                         </Link>
                       </div>
                     </div>
